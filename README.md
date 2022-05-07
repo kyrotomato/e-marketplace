@@ -12,6 +12,7 @@ This is functional code that allows you to utilize insomnia and mysql to create,
 Download the folder, in the develop folder install mysql2, express, sequelize, dotenv (you will also need to create a .env file with your mysql credentials), and node.
 ## Usage
 Simply open the urls for the related API endpoints in insomnia. Each product, category, and tag has its own get, put, post, and delete functions. Get will display the database information related to the api endpoint. Post will create the related object. Put will edit an existing object, and delete will remove it. Attached is a video displaying these steps
+https://drive.google.com/file/d/1fHM0Eg89IwgqJ19Qfva-D9c7Ejo0OLfD/view?usp=sharing
 ## Contribution
 Xandromus
 ## Tests

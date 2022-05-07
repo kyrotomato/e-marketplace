@@ -25,7 +25,6 @@ JavaScript,Node
 
 ## Links
 https://github.com/kyrotomato/e-marketplace - 
-N/A
 ## Questions
 For further questions, please contact me at: [GitHub]('https://github.com/'kyrotomato) or thomasmccalister@gmail.com
     
